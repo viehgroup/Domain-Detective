@@ -1,0 +1,4 @@
+socket
+requests
+pandas
+hashlib
