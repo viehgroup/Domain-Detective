@@ -22,6 +22,7 @@
 <pre style="background-color:lightgray;">
 <code>
 $ git clone https://github.com/viehgroup/domain-detective.git
+$ pip install -r requirements.txt
 $ cd domain-detective
 </code>
 </pre>
